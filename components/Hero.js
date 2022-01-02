@@ -10,7 +10,10 @@ export default function Hero() {
         problems.
       </p>
       <div>
-        <a href="">
+        <a
+          target="_blank"
+          href="https://docs.google.com/document/d/1wT2sbxX9fiOGCktrnF7f1KyqENfY2rzI/edit?usp=sharing&ouid=100964565921291017617&rtpof=true&sd=true"
+        >
           <span className="mt-10 inline-block w-auto bg-black font-display text-white text-base md:text-xl py-4 px-7 cursor-pointer">
             <div className="flex flex-row items-center">
               <span className="mr-3 ">Download Resumee</span>
