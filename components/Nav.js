@@ -42,16 +42,16 @@ export default function Nav() {
             </div>
           </div>
           <div className="flex flex-row items-center">
-            <a className="mr-5" href="https://github.com/braydentw">
+            <a className="mr-5" href="https://github.com/AwalHossain">
               <GithubIcon color="#9499a2" size={18} />
             </a>
-            <a className="mr-5" href="https://linkedin.com/in/braydentw">
+            <a
+              className="mr-5"
+              href="https://www.linkedin.com/in/awal-hossain-0bb650108/"
+            >
               <LinkedinIcon color="#9499a2" size={18} />
             </a>
-            <a className="mr-5" href="https://dribbble.com/braydentw">
-              <DribbbleIcon color="#9499a2" size={18} />
-            </a>
-            <a href="mailto:me@braydentw.com">
+            <a href="mailto:182204.te@student.just.edu.bd">
               <MailIcon color="#9499a2" size={18} />
             </a>
           </div>
