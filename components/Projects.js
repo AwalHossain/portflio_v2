@@ -5,6 +5,18 @@ import { ExternalLink } from 'react-feather';
 const projects = [
   {
     key: 0,
+    title: 'Brand e-commerce',
+    description: 'MERN Stack Project',
+    tools: ['React', 'Node', 'Express', 'MongoDB', 'Redux', 'Mongoose'],
+    link: 'https://brand-ecommerce.herokuapp.com/',
+    linkDisplay: 'Live Site',
+    githubClient: 'https://github.com/AwalHossain/ecommerce-project',
+    githubServer: 'https://github.com/AwalHossain/ecommerce-project',
+
+    imgUrl: 'https://i.ibb.co/nMJc4jv/Brand-commerce.png'
+  },
+  {
+    key: 0,
     title: 'Lens Kart Glasses Everywhere',
     description: 'MERN Stack Project',
     tools: ['React', 'Node', 'Express', 'MongoDB', 'firebase', 'Heroku'],
