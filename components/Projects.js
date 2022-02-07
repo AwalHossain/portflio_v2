@@ -56,7 +56,7 @@ const projects = [
     key: 2,
     title: 'TypeScript Shopping Cart',
     description: 'TypeScript-React project',
-    tools: ['React', 'firebase'],
+    tools: ['React', 'Typescript', 'firebase'],
     link: 'https://shopping-cart-tsc.web.app/',
     linkDisplay: 'Live site',
     imgUrl: 'https://i.ibb.co/2dvDsMt/shopping-cart.webp',
