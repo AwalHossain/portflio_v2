@@ -51,6 +51,16 @@ const projects = [
       'https://github.com/AwalHossain/tourism-or-delivery-website-client-side-AwalHossain',
     githubServer:
       'https://github.com/AwalHossain/tourism-or-delivery-website-server-side-AwalHossain'
+  },
+  {
+    key: 2,
+    title: 'TypeScript Shopping Cart',
+    description: 'TypeScript-React project',
+    tools: ['React', 'firebase'],
+    link: 'https://shopping-cart-tsc.web.app/',
+    linkDisplay: 'Live site',
+    imgUrl: 'https://i.ibb.co/2dvDsMt/shopping-cart.webp',
+    githubClient: 'https://github.com/AwalHossain/typescript_cart_item'
   }
 ];
 

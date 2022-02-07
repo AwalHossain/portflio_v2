@@ -19,7 +19,10 @@ export default function Footer() {
         <a className="mr-5" href="https://github.com/AwalHossain">
           <GithubIcon color="black" size={18} />
         </a>
-        <a className="mr-5" href="https://linkedin.com/in/braydentw">
+        <a
+          className="mr-5"
+          href="https://www.linkedin.com/in/awal-hossain-0bb650108/"
+        >
           <LinkedinIcon color="black" size={18} />
         </a>
         <a href="mailto:182204.te@student.just.edu.bd">
